@@ -1,7 +1,5 @@
 <h2 align="center">
     <img src="https://i.ibb.co/DM8pSyX/image-1.png" />
-    <img src="https://i.ibb.co/Ctpv8d4/oflogo.png" style="background-color:#ffffff;width:100px;height:100px;"/>
-    <br>
     LaunchDarkly + Spring Boot + Angular + React + OpenFeature
 <font size="3">(Because more is more!)</font>
 
