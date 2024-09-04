@@ -1,7 +1,7 @@
 <h2 align="center">
     <img src="https://i.ibb.co/DM8pSyX/image-1.png" />
     LaunchDarkly + Spring Boot + Angular + React + OpenFeature
-<font size="3">(Because more is more!)</font>
+<font size="3"><br/>(Because more is more!)</font>
 
 </h2>
 
